@@ -2,4 +2,4 @@
 
 ゲーム（サイバー）ちっくなプロフィールページのテンプレートです。
 
-https://sora0613.com/CyberProfile/
+https://s0r4.jp/CyberProfile/
